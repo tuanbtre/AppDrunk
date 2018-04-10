@@ -1,0 +1,7 @@
+#Tue Apr 10 14:40:35 ICT 2018
+base.0=D\:\\AppAndroid\\AppDrunk\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\12
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=D\:\\AppAndroid\\AppDrunk\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\13
